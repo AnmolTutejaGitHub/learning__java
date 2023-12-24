@@ -29,3 +29,18 @@ public class NumericConversionExample {
         System.out.println("Converted Double (from int): " + doubleNumberFromInt);
     }
 }
+
+
+//output 
+// Float: 123.45
+// Converted Int (from float): 123
+
+// Int: 456
+// Converted Float (from int): 456.0
+
+// Double: 789.123
+// Converted Int (from double): 789
+
+// Int: 987
+// Converted Double (from int): 987.0
+
