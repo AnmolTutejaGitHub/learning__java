@@ -11,3 +11,12 @@ public class StringToIntegerExample {
         System.out.println("Method 2 - Converted Integer: " + number2);
     }
 }
+
+
+//String strNumber2 = "123";
+// Integer number2 = Integer.valueOf(strNumber2);
+// int intNumber2 = number2.intValue();
+
+// System.out.println("Integer: " + number2);
+// System.out.println("int: " + intNumber2);
+// // In this example, number2 is an Integer object, and intNumber2 is an int primitive.
