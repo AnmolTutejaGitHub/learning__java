@@ -1,0 +1,31 @@
+public class NumericConversionExample {
+    public static void main(String[] args) {
+        // Float to Int
+        float floatNumber = 123.45F;
+        int intNumberFromFloat = (int) floatNumber;
+        
+        System.out.println("Float: " + floatNumber);
+        System.out.println("Converted Int (from float): " + intNumberFromFloat);
+
+        // Int to Float
+        int intNumber = 456;
+        float floatNumberFromInt = (float) intNumber;
+        
+        System.out.println("\nInt: " + intNumber);
+        System.out.println("Converted Float (from int): " + floatNumberFromInt);
+
+        // Double to Int
+        double doubleNumber = 789.123;
+        int intNumberFromDouble = (int) doubleNumber;
+
+        System.out.println("\nDouble: " + doubleNumber);
+        System.out.println("Converted Int (from double): " + intNumberFromDouble);
+        
+        // Int to Double
+        int anotherIntNumber = 987;
+        double doubleNumberFromInt = (double) anotherIntNumber;
+        
+        System.out.println("\nInt: " + anotherIntNumber);
+        System.out.println("Converted Double (from int): " + doubleNumberFromInt);
+    }
+}
