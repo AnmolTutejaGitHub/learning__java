@@ -34,7 +34,7 @@ public class Basic {
 
     public static int calculateScore(int score) {
 
-        return calculateScore("Anonymous", score);
+        return calculateScore("Anonymous", score);   //return type jo calculateScore("Anonymous", score); ki return type hai 
     }
 
     public static int calculateScore() {
