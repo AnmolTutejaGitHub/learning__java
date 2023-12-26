@@ -32,3 +32,13 @@ public class BreakStatement {
         }
     }
 }
+
+
+// Fall through in switch statement :
+// Once a switch case label matches the switch variable, no more cases are
+// checked.
+// Any code after the case label where there was a match found, will be
+// executed, until a break statement, or the end of the switch statement occurs.
+// Without a break statement, execution will continue to fall through any case
+// labels declared below the matching one, and execute each case's code.
+
