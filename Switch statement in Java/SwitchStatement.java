@@ -1,3 +1,4 @@
+//Traditional Switch Statement 
 public class SwitchStatement {
     public static void main(String[] args) {
 
