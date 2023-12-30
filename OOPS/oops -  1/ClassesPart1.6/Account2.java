@@ -1,3 +1,4 @@
+// constructor chaining and use of this()
 public class Account2 {
 
     private String number;
