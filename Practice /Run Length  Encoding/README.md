@@ -19,3 +19,11 @@ problem :(geeksforgreeks)  https://www.geeksforgeeks.org/problems/run-length-enc
 // Input:
 // str = abbbcdddd
 // Output: a1b3c1d4
+
+
+
+Steps :
+
+Pick the first character from the source string. 
+Append the picked character to the destination string. 
+Count the number of subsequent occurrences of the picked character and append the count to the destination string. 
