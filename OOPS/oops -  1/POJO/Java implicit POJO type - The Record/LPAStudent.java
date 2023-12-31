@@ -43,7 +43,7 @@
 //You want to protect the data from unintended mutations.
 
 //If you want to modify data on your class, you won't be using the record.
-//You can use the code generation options for the POJO, as we showed in the earlier video.
+//You can use the code generation options for the POJO.
 //But if you're reading a whole lot of records, from a database or file source, and simply passing this data around, then the record is a big improvement.
 
 
