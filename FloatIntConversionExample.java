@@ -1,4 +1,4 @@
-public class NumericConversionExample {
+public class FloatIntConversionExample {
     public static void main(String[] args) {
         // Float to Int
         float floatNumber = 123.45F;
